@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>18</tipo>
+              <cabeceira>Palabras Para Completar </cabeceira>
+              <modo>1</modo>
+              <completa ant="Fallas en el " post="operativo ">sistema</completa>
+              <completa ant="Infección " post="malware ">por </completa>
+              <completa ant="Problemas " post="conectividad ">de</completa>
+              <completa ant="Problemas " post="ram ">con la </completa>
+              <completa ant="Funcionamiento" post="en el pc">lento </completa>
+        </paxina>
+    </libro>
+</lim>
